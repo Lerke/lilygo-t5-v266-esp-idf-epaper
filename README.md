@@ -15,3 +15,5 @@ Uses the following pins
 | DC       | 19  |
 | RST      | 4   |
 | BUSY     | 34  |
+
+![](./image.jpg)
